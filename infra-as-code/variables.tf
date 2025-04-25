@@ -1,5 +1,5 @@
 variable "org_name" {
-  type = string
+  type    = string
   default = "ignite"
 }
 
